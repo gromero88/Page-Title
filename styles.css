@@ -1,0 +1,31 @@
+.fortune{
+    width:500px;
+    }
+    
+.witch{
+    width:300px;
+    }
+    
+body{
+    color:white;
+    background-color:black;
+    }
+    
+h1{
+    font-family: 'Jim Nightshade', cursive; 
+    font-size:50px;
+    text-decoration: underline;
+    }
+    
+p{
+    font-family: 'Kelly Slab', cursive; 
+    }
+    
+h2{
+    font-family: 'Lobster', cursive;
+    }
+    
+input{
+    background-color:#000005;
+    color: white;
+    }
